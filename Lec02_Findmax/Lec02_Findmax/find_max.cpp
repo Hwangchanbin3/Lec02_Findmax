@@ -12,7 +12,6 @@ int findArrayMax(int score[], int n)
 	return tmp;
 }
 
-
 void main()
 {
 	int score[5] = { 1, 10, 2, 4, 5 };
